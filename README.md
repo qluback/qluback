@@ -1,4 +1,4 @@
-## Hi there 👋
+# [Quentin Luback](https://www.linkedin.com/in/quentin-luback/) [@qluback](https://www.linkedin.com/in/quentin-luback/)
 
 <!--
 **qluback/qluback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 ## I previously worked with:
 
-<a href="https://redux.js.org/" title="Redux"><img src="img/redux.png" /></a>
 <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="img/rabbitmq.png" /></a>
 <a href="https://www.elastic.co" title="Elastic Search"><img src="img/elasticsearch.png" /></a>
+<a href="https://redux.js.org/" title="Redux"><img src="img/redux.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="img/wordpress.png" /></a>
 
 ## I'm certified on:
