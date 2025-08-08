@@ -1,5 +1,11 @@
 # [Quentin Luback](https://www.linkedin.com/in/quentin-luback/) [@qluback](https://www.linkedin.com/in/quentin-luback/)
 
+Hey there 👋,
+
+Currently working as a Fullstack Developer at [Micropole](https://www.micropole.com/), I've been involved in the [Audi France](https://www.audi.fr) project for the past 5 years.
+My main passion: front-end development — whether it's pixel-perfect mockup integration or connecting applications to the back end.
+Since 2025, my main goal has been to specialize in front-end development, advanced animations with GSAP, and 3D integration using ThreeJS, in order to deliver applications with unique and original experiences.
+
 <!--
 **qluback/qluback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,11 +40,30 @@ Here are some ideas to get you started:
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="img/phpstorm.png" /></a>
 <a href="https://www.figma.com/" title="Figma"><img src="img/figma.png" /></a>
 
+## I've worked on these front projects:
+
+[Quelle Audi me correspond](https://quelle-audi-me-correspond.audifrance.fr/)
+[Audi Service](https://service.audifrance.fr/)
+[myAudi Request Information](https://france.my.audi.com/information)
+Lead and claims management platform for dealerships
+Backend APIs
+
 ## I'm currently learning:
 
 <a href="https://gsap.com/" title="GSAP"><img src="img/gsap.png" /></a>
 <a href="https://threejs.org/" title="ThreeJS"><img src="img/threejs.png" /></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="img/reactnative.png" /></a>
+
+## I learned by building these projects :
+
+[Balatro-like without jokers with React](https://qluback-balatro.netlify.app/)
+[3D sneakers visualizer with ThreeJS](https://qluback-sneaker-shop.netlify.app/)
+[3D Haunted House with ThreeJS](https://qluback-haunted-house-3d.netlify.app/)
+[3D Solar system with ThreeJS](https://qluback-solar-system-3d.netlify.app/)
+[App to report events during rugby match with React Native](https://github.com/qluback/rugby-live-reporting-app)
+[Movie app with React](https://github.com/qluback/movie-app)
+[MotoGP landing page for new 2025 season with GSAP](https://github.com/qluback/motogp-landing-page)
+[Dart score counter with React](https://github.com/qluback/dart-app)
 
 ## I previously worked with:
 
