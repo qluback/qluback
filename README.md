@@ -6,21 +6,6 @@ Currently working as a Fullstack Developer at [Micropole](https://www.micropole.
 My main passion: front-end development — whether it's pixel-perfect mockup integration or connecting applications to the back end.<br>
 Since 2025, my main goal has been to specialize in front-end development, advanced animations with GSAP, and 3D integration using ThreeJS, in order to deliver applications with unique and original experiences.
 
-<!--
-**qluback/qluback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## I'm currently working with:
 
 <a href="https://en.wikipedia.org/wiki/HTML" title="HTML"><img src="img/html.png" /></a>
@@ -56,6 +41,7 @@ Backend APIs<br>
 
 ## I learned by building these projects :
 
+[Landing page for data solution with GSAP](https://scoring-ai.netlify.app/)<br>
 [Balatro-like without jokers with React](https://qluback-balatro.netlify.app/)<br>
 [3D sneakers visualizer with ThreeJS](https://qluback-sneaker-shop.netlify.app/)<br>
 [3D Haunted House with ThreeJS](https://qluback-haunted-house-3d.netlify.app/)<br>
@@ -79,3 +65,11 @@ AWS Developer (Mars 2021)<br><br>
 <a href="https://www.salesforce.com/" title="Salesforce"><img src="img/salesforce.png" /></a><br>
 Salesforce Admin (October 2022)<br>
 Salesforce Experience Cloud Consultant (November 2023)
+
+## Beyond development, I do:
+
+🏉 Rugby refereeing since 2023<br>
+💪 Sports (🎾 Padel, 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚴 Cycling, 🚣‍♂️ Rowing)<br>
+🏁 Sim racing (iRacing, Rally WRC, Le Mans Ultimate)<br>
+Reading (society, politics, biography, comics, personal development...)<br>
+Piano
