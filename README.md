@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I'm currently working with:**
+## I'm currently working with:
 
 <a href="https://en.wikipedia.org/wiki/HTML" title="HTML"><img src="img/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="img/css.png" /></a>
@@ -34,20 +34,20 @@ Here are some ideas to get you started:
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="img/phpstorm.png" /></a>
 <a href="https://www.figma.com/" title="Figma"><img src="img/figma.png" /></a>
 
-**I'm currently learning:**
+## I'm currently learning:
 
 <a href="https://gsap.com/" title="GSAP"><img src="img/gsap.png" /></a>
 <a href="https://threejs.org/" title="ThreeJS"><img src="img/threejs.png" /></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="img/reactnative.png" /></a>
 
-**I previously worked with:**
+## I previously worked with:
 
 <a href="https://redux.js.org/" title="Redux"><img src="img/redux.png" /></a>
 <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="img/rabbitmq.png" /></a>
 <a href="https://www.elastic.co" title="Elastic Search"><img src="img/elasticsearch.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="img/wordpress.png" /></a>
 
-**I'm certified on:**
+## I'm certified on:
 
 <a href="https://aws.amazon.com/" title="AWS"><img src="img/aws.png" /></a><br>
 AWS Developer (Mars 2021)<br><br>
