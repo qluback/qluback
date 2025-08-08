@@ -1,4 +1,4 @@
-# [Quentin Luback](https://www.linkedin.com/in/quentin-luback/) <a href="https://www.linkedin.com/in/quentin-luback/" title="Linkedin"><img src="img/linkedin.png" /></a>
+# [Quentin Luback](https://www.linkedin.com/in/quentin-luback/) <a href="https://www.linkedin.com/in/quentin-luback/" title="Linkedin" style="vertical-align: middle;"><img src="img/linkedin.png" /></a>
 
 Hey there 👋,
 
