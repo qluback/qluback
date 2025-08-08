@@ -10,9 +10,9 @@ Since 2025, my main goal has been to specialize in front-end development, advanc
 
 <a href="https://en.wikipedia.org/wiki/HTML" title="HTML"><img src="img/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="img/css.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="img/javascript.png" /></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="img/sass.png" /></a>
 <a href="https://tailwindcss.com/" title="TailwindCSS"><img src="img/tailwindcss.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="img/javascript.png" /></a>
 <a href="https://react.dev/" title="React"><img src="img/react.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="img/typescript.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="img/php.png" /></a>
