@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 ## I've worked on these front projects:
 
-[Quelle Audi me correspond](https://quelle-audi-me-correspond.audifrance.fr/)
-[Audi Service](https://service.audifrance.fr/)
-[myAudi Request Information](https://france.my.audi.com/information)
-Lead and claims management platform for dealerships
-Backend APIs
+[Quelle Audi me correspond](https://quelle-audi-me-correspond.audifrance.fr/)<br>
+[Audi Service](https://service.audifrance.fr/)<br>
+[myAudi Request Information](https://france.my.audi.com/information)<br>
+Lead and claims management platform for dealerships<br>
+Backend APIs<br>
 
 ## I'm currently learning:
 
