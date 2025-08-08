@@ -56,14 +56,14 @@ Backend APIs
 
 ## I learned by building these projects :
 
-[Balatro-like without jokers with React](https://qluback-balatro.netlify.app/)
-[3D sneakers visualizer with ThreeJS](https://qluback-sneaker-shop.netlify.app/)
-[3D Haunted House with ThreeJS](https://qluback-haunted-house-3d.netlify.app/)
-[3D Solar system with ThreeJS](https://qluback-solar-system-3d.netlify.app/)
-[App to report events during rugby match with React Native](https://github.com/qluback/rugby-live-reporting-app)
-[Movie app with React](https://github.com/qluback/movie-app)
-[MotoGP landing page for new 2025 season with GSAP](https://github.com/qluback/motogp-landing-page)
-[Dart score counter with React](https://github.com/qluback/dart-app)
+[Balatro-like without jokers with React](https://qluback-balatro.netlify.app/)<br>
+[3D sneakers visualizer with ThreeJS](https://qluback-sneaker-shop.netlify.app/)<br>
+[3D Haunted House with ThreeJS](https://qluback-haunted-house-3d.netlify.app/)<br>
+[3D Solar system with ThreeJS](https://qluback-solar-system-3d.netlify.app/)<br>
+[App to report events during rugby match with React Native](https://github.com/qluback/rugby-live-reporting-app)<br>
+[Movie app with React](https://github.com/qluback/movie-app)<br>
+[MotoGP landing page for new 2025 season with GSAP](https://github.com/qluback/motogp-landing-page)<br>
+[Dart score counter with React](https://github.com/qluback/dart-app)<br>
 
 ## I previously worked with:
 
