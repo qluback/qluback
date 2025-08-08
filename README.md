@@ -2,8 +2,8 @@
 
 Hey there 👋,
 
-Currently working as a Fullstack Developer at [Micropole](https://www.micropole.com/), I've been involved in the [Audi France](https://www.audi.fr) project for the past 5 years.
-My main passion: front-end development — whether it's pixel-perfect mockup integration or connecting applications to the back end.
+Currently working as a Fullstack Developer at [Micropole](https://www.micropole.com/), I've been involved in the [Audi France](https://www.audi.fr) project for the past 5 years.<br>
+My main passion: front-end development — whether it's pixel-perfect mockup integration or connecting applications to the back end.<br>
 Since 2025, my main goal has been to specialize in front-end development, advanced animations with GSAP, and 3D integration using ThreeJS, in order to deliver applications with unique and original experiences.
 
 <!--
