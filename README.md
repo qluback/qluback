@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Currently working with:**
+**I'm currently working with:**
 
-<a href="https://en.wikipedia.org/wiki/HTML" title="HTML" target="_blank"><img src="img/html.png" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML" title="HTML"><img src="img/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="img/css.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="img/javascript.png" /></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="img/sass.png" /></a>
@@ -34,20 +34,23 @@ Here are some ideas to get you started:
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="img/phpstorm.png" /></a>
 <a href="https://www.figma.com/" title="Figma"><img src="img/figma.png" /></a>
 
-**Learning:**
+**I'm currently learning:**
 
 <a href="https://gsap.com/" title="GSAP"><img src="img/gsap.png" /></a>
 <a href="https://threejs.org/" title="ThreeJS"><img src="img/threejs.png" /></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="img/reactnative.png" /></a>
 
-**Previously worked with:**
+**I previously worked with:**
 
 <a href="https://redux.js.org/" title="Redux"><img src="img/redux.png" /></a>
 <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="img/rabbitmq.png" /></a>
 <a href="https://www.elastic.co" title="Elastic Search"><img src="img/elasticsearch.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="img/wordpress.png" /></a>
 
-**Certified on:**
+**I'm certified on:**
 
 <a href="https://aws.amazon.com/" title="AWS"><img src="img/aws.png" /></a>
+AWS Developer (Mars 2021)<br>
 <a href="https://www.salesforce.com/" title="Salesforce"><img src="img/salesforce.png" /></a>
+Salesforce Admin (October 2022)
+Salesforce Experience Cloud Consultant (November 2023)
