@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 **I'm certified on:**
 
 <a href="https://aws.amazon.com/" title="AWS"><img src="img/aws.png" /></a><br>
-AWS Developer (Mars 2021)<br>
+AWS Developer (Mars 2021)<br><br>
 <a href="https://www.salesforce.com/" title="Salesforce"><img src="img/salesforce.png" /></a><br>
 Salesforce Admin (October 2022)<br>
 Salesforce Experience Cloud Consultant (November 2023)
