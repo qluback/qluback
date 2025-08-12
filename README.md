@@ -72,5 +72,5 @@ Salesforce Experience Cloud Consultant (November 2023)
 🏉 Rugby refereeing since 2023<br>
 💪 Sports (🎾 Padel, 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚴 Cycling, 🚣‍♂️ Rowing)<br>
 🏁 Sim racing (iRacing, Rally WRC, Le Mans Ultimate)<br>
-Reading (society, politics, biography, comics, personal development...)<br>
-Piano
+📖 Reading (society, politics, biography, comics, personal development...)<br>
+🎹 Piano
