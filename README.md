@@ -44,6 +44,7 @@ Backend APIs<br>
 [Landing page for data solution with GSAP](https://scoring-ai.netlify.app/)<br>
 [Balatro-like without jokers with React](https://qluback-balatro.netlify.app/)<br>
 [3D sneakers visualizer with ThreeJS](https://qluback-sneaker-shop.netlify.app/)<br>
+[Music app with glassmorphism design for VR usage](https://qluback-music-app-glassmorphism.netlify.app/)<br>
 [3D Haunted House with ThreeJS](https://qluback-haunted-house-3d.netlify.app/)<br>
 [3D Solar system with ThreeJS](https://qluback-solar-system-3d.netlify.app/)<br>
 [App to report events during rugby match with React Native](https://github.com/qluback/rugby-live-reporting-app)<br>
