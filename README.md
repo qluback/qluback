@@ -49,7 +49,7 @@ Backend APIs<br>
 [3D Solar system with ThreeJS](https://qluback-solar-system-3d.netlify.app/)<br>
 [App to report events during rugby match with React Native](https://github.com/qluback/rugby-live-reporting-app)<br>
 [Movie app with React](https://github.com/qluback/movie-app)<br>
-[MotoGP landing page for new 2025 season with GSAP](https://github.com/qluback/motogp-landing-page)<br>
+[WIP: MotoGP landing page for new 2025 season with GSAP](https://qluback-motogp-landing-page.netlify.app)<br>
 [Dart score counter with React](https://github.com/qluback/dart-app)<br>
 
 ## I previously worked with:
