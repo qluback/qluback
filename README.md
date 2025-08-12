@@ -25,7 +25,7 @@ Since 2025, my main goal has been to specialize in front-end development, advanc
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="img/phpstorm.png" /></a>
 <a href="https://www.figma.com/" title="Figma"><img src="img/figma.png" /></a>
 
-## I've worked on these front projects:
+## I've worked on these projects:
 
 [Quelle Audi me correspond](https://quelle-audi-me-correspond.audifrance.fr/)<br>
 [Audi Service](https://service.audifrance.fr/)<br>
